@@ -1,4 +1,4 @@
-This is a simple password hashing tool using hashlib for hashing a password
+This is a simple password hashing tool using hashlib library in python
 
 ## Execution
 `python hashing_passwords.py <password> [-t {sha256,sha512,md5}] `  
